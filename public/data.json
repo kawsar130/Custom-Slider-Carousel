@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Biscuit",
+    "slug": "biscuit",
+    "description": "A biscuit is any of various hard or crisp dry baked product similar to the American English terms cracker or cookie, or a small quick bread made from dough that has been rolled out and cut or dropped from a spoon",
+    "bannerImg": "https://i.ibb.co/tLpR7BZ/img-1.jpg",
+    "productImg": "https://i.ibb.co/h9zdgHh/biscuit.png"
+  },
+  {
+    "id": 2,
+    "name": "Corn Oil",
+    "slug": "corn-oil",
+    "description": "Corn oil or maize oil is oil extracted from the germ of corn. Its main use is in cooking, where its high smoke point makes refined corn oil a valuable frying oil",
+    "bannerImg": "https://i.ibb.co/MSHgPwh/img-2.jpg",
+    "productImg": "https://i.ibb.co/jZKxgSj/corn-oil.png"
+  },
+  {
+    "id": 3,
+    "name": "Wheat Flour",
+    "slug": "wheat-flour",
+    "description": "Wheat flour is a powder made from the grinding of wheat used for human consumption. Wheat varieties are called soft or weak if gluten content is low, and are called hard or strong if they have high gluten content",
+    "bannerImg": "https://i.ibb.co/LnGNk3h/img-3.jpg",
+    "productImg": "https://i.ibb.co/vXdtP7b/flour.png"
+  },
+  {
+    "id": 4,
+    "name": "Mustard Oil",
+    "slug": "mustard-oil",
+    "description": "Mustard oil can mean either the pressed oil used for cooking, or a pungent essential oil also known as volatile oil of mustard",
+    "bannerImg": "https://i.ibb.co/cxRT4KK/img-4.jpg",
+    "productImg": "https://i.ibb.co/31ccwZJ/mustard-oil.png"
+  },
+  {
+    "id": 5,
+    "name": "Salt",
+    "slug": "salt",
+    "description": "Salt is a mineral composed primarily of sodium chloride, a chemical compound belonging to the larger class of salts; salt in the form of a natural crystalline mineral is known as rock salt or halite",
+    "bannerImg": "https://i.ibb.co/vdm7Wp5/img-5.jpg",
+    "productImg": "https://i.ibb.co/rF5YbLR/salt.png"
+  }
+]

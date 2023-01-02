@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.itemContainer {
+  text-align: left;
+}
+
+.itemComponent {
+  padding: 0.3rem 2rem;
+  margin: 1rem;
+  background-color: #bfeaf5;
+  border-radius: 10px;
+}
+
+.itemComponentSelected {
+  padding: 0.3rem 2rem;
+  margin: 1rem;
+  background-color: #82aae3;
+  border-radius: 10px;
+  color: white;
+}
+
+.itemText {
+  font-weight: bold;
+}
