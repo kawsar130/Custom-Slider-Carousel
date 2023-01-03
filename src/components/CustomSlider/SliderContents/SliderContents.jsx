@@ -3,7 +3,8 @@ import styles from './sliderContents.module.css';
 const SliderContents = ({ selected }) => {
   return (
     <div className={styles.container}>
-      <div className={styles.imgContainer}>
+      <div className={styles.bannerContainer}>
+        <div className={styles.bannerShade}></div>
         <img
           src={selected.bannerImg}
           alt={selected.name}
@@ -11,8 +12,9 @@ const SliderContents = ({ selected }) => {
           width="100%"
         />
       </div>
+
       <div className={styles.infoContainer}>
-        <div>
+        <div className={styles.productImgContainer}>
           <img src={selected.productImg} alt={selected.name} width="100%" />
         </div>
         <div className={styles.textContainer}>

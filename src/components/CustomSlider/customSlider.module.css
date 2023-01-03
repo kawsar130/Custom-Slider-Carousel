@@ -6,10 +6,7 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  background: rgb(191, 234, 245);
-  background: linear-gradient(
-    90deg,
-    rgba(191, 234, 245, 1) 0%,
-    rgba(234, 253, 252, 1) 100%
-  );
+  background-color: white;
+  border-radius: 2rem;
+  overflow: hidden;
 }
